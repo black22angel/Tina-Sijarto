@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+.paragraf1 {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 20px;
+	line-height: 18px;
+	width: 500px;
+	background-color:#B0CCD7;
+	padding: 20px;
+}
+.paragraf_2 {color:darkcyan; background-color: rgba(255, 255, 255, 0.5);
+    width: 1000px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	line-height: 18px;
+	padding: 20px;
+}
+.novi_blok {
+	 background-color: rgba(255, 255, 255, 0.9);
+	padding: 20px;
+	margin: 20px;
+	width: 50%;
+}
+h1, h2 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color:#1626C0;
+}
+
+.pozadina{
+	background-image:url("blue.jpg");
+}
+.drugapozadina {
+	background-image:url("blue2.jpg")
+}
+
+a:link {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border:1px solid #000000;
+}
+a:hover{
+	background-color: darkgray;
+}
+img {
+	height: 300px;
+}
